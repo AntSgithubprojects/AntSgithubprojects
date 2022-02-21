@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cyber Security and Programming.
 - 🌱 I’m currently learning PenTesting on Kali Linux.
 
-
+- 💎 Always developing in C#, Python, SQL, Kali. 
 <!---
 - 📫 How to reach me ...
 AntSgithubprojects/AntSgithubprojects is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
